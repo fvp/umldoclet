@@ -1,7 +1,7 @@
 [![Build Status][ci-img]][ci]
 [![Released Version][maven-img]][maven]
 
-# UMLDoclet
+# UMLDoclet Alfa
 Doclet for the JavaDoc tool that generates UML diagrams from the code.  
 Released versions can be found in the [maven central repository][maven].  
 
